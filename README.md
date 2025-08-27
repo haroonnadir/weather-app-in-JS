@@ -1,6 +1,1 @@
 weather app in JS
-.
-
-
-
-.
